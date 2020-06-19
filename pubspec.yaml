@@ -45,6 +45,8 @@ flutter:
   assets:
     - whatsapp.png
     - logo.png
+    - logo_blanco.png
+    - mic.png
   #  - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
